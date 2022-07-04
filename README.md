@@ -6,5 +6,8 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLifeZ&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-![snake gif](https://github.com/ItsLifeZ/ItsLifeZ/blob/ceb76ffa44f154e106b400ae6d23484ef0cd7ccd/github-contribution-grid-snake.gif)
+##
   
+<div>
+  ![snake gif](https://github.com/ItsLifeZ/ItsLifeZ/blob/ceb76ffa44f154e106b400ae6d23484ef0cd7ccd/github-contribution-grid-snake.gif)
+</div>
