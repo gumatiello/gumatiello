@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Tecnologias conhecidas</h2>
+<h2 align="left">Tecnologias que trabalho</h2>
 
 ###
 
