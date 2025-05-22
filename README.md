@@ -1,4 +1,4 @@
-### Hi! Im itsLifeZ, front and back-end enthusiast.
+### Olá! Sou um desenvolvedor fullstack.
 
 <div align="center">
   <a href="https://github.com/ItsLifeZ">
@@ -7,7 +7,7 @@
 </div>
 
 ##
-### What i use?
+### Meus conhecimentos
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
